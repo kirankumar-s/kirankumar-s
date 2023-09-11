@@ -2,7 +2,7 @@
 
 - 👀 I’m Kiran, an enthusiastic programmer with a vast passion for software development.
 - 🔭 Currently working on projects with **Angular, NodeJS, Python, Django, Spring, AWS**
-- 📫 Reach me at kirankumarsamatham@gmail.com
+- 📫 Reach me at kiransamatham@gmail.com
 - 🧠 I love working on Challenging problems
 
 <h3 style="border-bottom: 0.5px solid gray;margin-bottom: 15px;padding-bottom: 1px;font-weight: bold;">Websites 🙋‍♂️</h3>
